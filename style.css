@@ -1,0 +1,43 @@
+* {
+    background: black;
+    color: white;
+    margin: 10px;
+    font-size: 20px;
+    font-family: monospace;
+}
+
+img {
+    border-radius: 90%;
+    margin: 50px;
+    width: 600px;
+    height: auto;
+}
+
+h3 {
+    color: red
+}
+
+h4 {
+    color: green
+}
+
+li{
+    color: white;
+}
+
+.recipe {
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+    list-style: none;
+}
+
+a:hover {
+    color: red
+}
+
+.title {
+    font-size: 40px;
+    font-weight: 100;
+    padding-bottom: 50px;
+}
